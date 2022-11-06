@@ -5,9 +5,9 @@ const main = document.getElementById('main');
 let parts = [];
 
 let images = [
-  "https://images.unsplash.com/photo-1549880338-65ddcdfd017b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80",
-  "https://images.unsplash.com/photo-1544198365-f5d60b6d8190?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80",
-  "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2700&q=80"
+  "https://media.discordapp.net/attachments/1025657724995903508/1036369137708052583/2022-10-30_15.59.05.png?width=1146&height=631",
+  "https://media.discordapp.net/attachments/1025657724995903508/1035865782233612388/2022-10-29_11.35.48.png?width=1122&height=631",
+  "https://media.discordapp.net/attachments/1025657724995903508/1026321325817593856/2022-10-02_22.34.06.png?width=1146&height=631"
 ];
 let current = 0;
 let playing = false;
